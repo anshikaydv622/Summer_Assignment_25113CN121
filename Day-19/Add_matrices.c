@@ -20,6 +20,7 @@ int main(){
             sum[i][j]=a[i][j]+b[i][j];
             printf("%d",sum[i][j]);
         }
+        
         printf("\n");
     }
     return 0;
